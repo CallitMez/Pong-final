@@ -35,7 +35,7 @@ class Pong : Game
     KeyboardState currentKBState = Keyboard.GetState();
     int state = 1, option = 1;
     bool secondBall = false;
-    int ballAmount = 3;
+    int ballAmount = 50;
     HashSet<Ball> balls = new HashSet<Ball>();
     //List<Ball> balls = new List<Ball>();
     List<Player> players = new List<Player>();
@@ -86,11 +86,9 @@ class Pong : Game
 
         Player p1 = new Player(new Vector2(5f, 192f), BWspeler, BWlives,"red", Keys.W, Keys.S, false);
         Player p2 = new Player(new Vector2(780f, 192f), BWspeler, BWlives, "blue", Keys.Up, Keys.Down, false);
-        Player p3 = new Player(new Vector2(780f, 192f), BWspeler, BWlives, "blue", Keys.I, Keys.K, false);
         
         players.Add(p1);
         players.Add(p2);
-        players.Add(p3);
         ResetValues();
     }
 
@@ -162,7 +160,7 @@ class Pong : Game
                 {
                     foreach (Player player in players) if (player.name == "red") {
 						player.lives -= 1;
-						foreach (Player p in players) p.Reset();
+						//foreach (Player p in players) p.Reset();
 					}
                     ball.Respawn(rnd);
                 }
@@ -170,7 +168,7 @@ class Pong : Game
                 {
                     foreach (Player player in players) if (player.name == "blue") {
 						player.lives -= 1;
-						foreach (Player p in players) p.Reset();
+						//foreach (Player p in players) p.Reset();
 					}
                     ball.Respawn(rnd);
                 }
