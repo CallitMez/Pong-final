@@ -1,0 +1,33 @@
+C:\Users\Diemel\Desktop\Pong1\Pong1\obj\x86\Debug\Pong1.csprojResolveAssemblyReference.cache
+C:\Users\Diemel\Desktop\Pong1\Pong1\bin\Windows\x86\Debug\Content\BWbal.xnb
+C:\Users\Diemel\Desktop\Pong1\Pong1\bin\Windows\x86\Debug\Content\BWlives.xnb
+C:\Users\Diemel\Desktop\Pong1\Pong1\bin\Windows\x86\Debug\Content\BWSpeler.xnb
+C:\Users\Diemel\Desktop\Pong1\Pong1\bin\Windows\x86\Debug\Content\BWtopBar.xnb
+C:\Users\Diemel\Desktop\Pong1\Pong1\bin\Windows\x86\Debug\Content\CoolFontStuff.xnb
+C:\Users\Diemel\Desktop\Pong1\Pong1\bin\Windows\x86\Debug\Content\WIP BlueWins.xnb
+C:\Users\Diemel\Desktop\Pong1\Pong1\bin\Windows\x86\Debug\Content\WIP RedWins.xnb
+C:\Users\Diemel\Desktop\Pong1\Pong1\bin\Windows\x86\Debug\Content\WIP Title.xnb
+C:\Users\Diemel\Desktop\Pong1\Pong1\bin\Windows\x86\Debug\Pong1.exe
+C:\Users\Diemel\Desktop\Pong1\Pong1\bin\Windows\x86\Debug\Pong1.pdb
+C:\Users\Diemel\Desktop\Pong1\Pong1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Diemel\Desktop\Pong1\Pong1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Diemel\Desktop\Pong1\Pong1\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Diemel\Desktop\Pong1\Pong1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Diemel\Desktop\Pong1\Pong1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Diemel\Desktop\Pong1\Pong1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Diemel\Desktop\Pong1\Pong1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Diemel\Desktop\Pong1\Pong1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Diemel\Desktop\Pong1\Pong1\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Diemel\Desktop\Pong1\Pong1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Diemel\Desktop\Pong1\Pong1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Diemel\Desktop\Pong1\Pong1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Diemel\Desktop\Pong1\Pong1\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Diemel\Desktop\Pong1\Pong1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Diemel\Desktop\Pong1\Pong1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Diemel\Desktop\Pong1\Pong1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Diemel\Desktop\Pong1\Pong1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Diemel\Desktop\Pong1\Pong1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Diemel\Desktop\Pong1\Pong1\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Diemel\Desktop\Pong1\Pong1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Diemel\Desktop\Pong1\Pong1\obj\x86\Debug\Pong1.exe
+C:\Users\Diemel\Desktop\Pong1\Pong1\obj\x86\Debug\Pong1.pdb

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Diemel/Desktop/Pong1/Pong1/Content/CoolFontStuff.spritefont</File>
+    <File>C:/Users/Diemel/Desktop/Pong1/Pong1/Content/WIP Title.png</File>
+    <File>C:/Users/Diemel/Desktop/Pong1/Pong1/Content/WIP RedWins.png</File>
+    <File>C:/Users/Diemel/Desktop/Pong1/Pong1/Content/WIP BlueWins.png</File>
+    <File>C:/Users/Diemel/Desktop/Pong1/Pong1/Content/BWbal.png</File>
+    <File>C:/Users/Diemel/Desktop/Pong1/Pong1/Content/BWlives.png</File>
+    <File>C:/Users/Diemel/Desktop/Pong1/Pong1/Content/BWSpeler.png</File>
+    <File>C:/Users/Diemel/Desktop/Pong1/Pong1/Content/BWtopBar.png</File>
+  </SourceFiles>
+</SourceFileCollection>
